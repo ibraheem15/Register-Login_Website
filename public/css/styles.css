@@ -1,0 +1,23 @@
+
+body {
+  background-color: #E8ECEF;
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.btn{
+  margin-top: 10px;
+}
+.btn-google{
+  padding-right: 200px;
+  margin-top: -1.8px;
+}
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #000;
+}
